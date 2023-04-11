@@ -1,0 +1,4 @@
+#Puertos de configuración del MW-TR
+#Wed May 30 11:10:22 GMT-03:00 2012
+PUERTO_RPC=8082
+SERVIDOR_REMOTO=localhost

@@ -1,0 +1,12 @@
+Servidor de red Apache Derby - 10.2.2.0 - (485682) se ha iniciado y está listo para aceptar conexiones en el puerto 1531 a las 2012-06-08 17:28:14.601 GMT 
+----------------------------------------------------------------
+2012-06-08 17:28:14.996 GMT:
+ Arrancando Derby versión The Apache Software Foundation - Apache Derby - 10.2.2.0 - (485682): instancia c013800d-0137-cd23-a5ee-0000003b3058
+en el directorio de base de datos /home/fremersaro/Escritorio/jars/MW-XF/DerbyDB  
+
+Cargador de clases de base de datos iniciado - derby.database.classpath=''
+Servidor de red Apache Derby - 10.2.2.0 - (485682) ha concluido a las 2012-06-08 19:50:56.000 GMT
+
+2012-06-08 19:50:56.576 GMT:
+Concluyendo instancia c013800d-0137-cd23-a5ee-0000003b3058
+----------------------------------------------------------------
